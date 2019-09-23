@@ -713,6 +713,11 @@ MonoBehaviour:
       type: 3}
     m_TimeToNextSpawn: 1
     m_NumberToSpawn: 0
+  - m_Name: FastGhostEnemy
+    m_EnemyGO: {fileID: 4898558687544669448, guid: 2b07bdc24d9d7174c8930043a2ab68d4,
+      type: 3}
+    m_TimeToNextSpawn: 6
+    m_NumberToSpawn: 0
 --- !u!4 &1780298365
 Transform:
   m_ObjectHideFlags: 0
